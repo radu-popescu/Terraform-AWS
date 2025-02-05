@@ -1,2 +1,2 @@
 # terraform-aws
- Infrastructure Deployments with Terraform on AWS
+ Architecture Deployments with Terraform on AWS
